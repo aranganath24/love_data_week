@@ -121,3 +121,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+![CRDDS](https://raw.githubusercontent.com/aranganath24/love_data_week/main/pictures/crdds.png)
