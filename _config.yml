@@ -1,6 +1,6 @@
 title: Love Data Week 2022 @ CU Boulder
 logo: /pictures/ldw_logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: 
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
