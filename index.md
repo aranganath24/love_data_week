@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![CRDDS](https://raw.githubusercontent.com/aranganath24/love_data_week/main/pictures/crdds.png)
+![CRDDS](pictures/crdds.png) 
 
 # Introduction 
 
